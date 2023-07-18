@@ -1,3 +1,4 @@
+import React from 'react';
 import Button from "../Button/Button";
 import { BiCommentDetail } from "react-icons/bi";
 import { FiPhone } from "react-icons/fi";

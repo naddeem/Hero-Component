@@ -75,7 +75,7 @@ const ContactForm = () => {
         </form>
       </div>
       <div className={styles.form_Image}>
-        <img src="../../../public/images/Service 24_7-pana 1.svg" alt="" />
+        <img src="https://th.bing.com/th/id/OIP.XlF-3AOGO0EWkDlBlsXS6wAAAA?pid=ImgDet&rs=1" alt="" />
       </div>
     </section>
   );
